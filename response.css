@@ -1,0 +1,16 @@
+@media screen and (max-width:1200px){
+    header {
+        width: 95%;
+        transition: .5s linear;
+    }
+    header .menu, .song{
+        width:40%;
+    }
+    header .song{
+        width:75%;
+    }
+    header .song .content {
+        height: 18%;
+    }
+}
+
